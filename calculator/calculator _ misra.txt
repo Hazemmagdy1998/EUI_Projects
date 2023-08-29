@@ -1,0 +1,944 @@
+Description	Resource	Path	Location	Type
+#1383-D (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call	main.c	/calculator	line 3	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 4	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 7	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 8	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 9	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 11	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 19	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 20	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 23	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 26	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 29	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 32	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 36	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 42	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 51	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 103	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 104	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 108	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 112	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 133	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 149	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 173	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 174	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 184	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 187	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 199	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 204	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 234	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 235	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 236	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 238	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 239	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 240	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	APP_Interface.c	/calculator	line 241	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 15	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 16	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 17	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 18	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 19	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 24	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 25	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 26	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 27	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 28	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 31	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 32	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 33	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 34	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 35	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 38	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 39	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 41	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 42	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 45	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 46	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 47	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 48	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 49	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 53	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 54	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 55	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 56	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 57	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 262	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 265	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 268	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 271	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 274	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 277	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 296	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 299	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 304	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 307	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 312	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 315	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 320	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 323	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 328	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 331	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 337	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 340	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 362	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 363	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 364	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 365	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 370	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 371	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 372	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 373	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 378	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 379	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 380	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 381	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 386	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 387	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 388	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 389	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 394	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 395	C/C++ Problem
+#1506-D (MISRA-C:2004 13.6/R) Numeric variables being used within a for loop for iteration counting shall not be modified in the body of the loop	APP_Interface.c	/calculator	line 113	C/C++ Problem
+#1506-D (MISRA-C:2004 13.6/R) Numeric variables being used within a for loop for iteration counting shall not be modified in the body of the loop	APP_Interface.c	/calculator	line 88	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 208	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 200	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 192	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 184	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 176	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 168	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Private.h	/calculator	line 9	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Interface.c	/calculator	line 230	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Interface.c	/calculator	line 200	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Interface.c	/calculator	line 183	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Interface.c	/calculator	line 52	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Interface.c	/calculator	line 51	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Interface.c	/calculator	line 50	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	APP_Interface.c	/calculator	line 21	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("number")	APP_Interface.c	/calculator	line 9	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")	APP_Interface.c	/calculator	line 230	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("found")	APP_Interface.c	/calculator	line 199	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("counter")	APP_Interface.c	/calculator	line 200	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 159	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 146	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 135	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 134	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 131	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 96	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 84	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 83	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 70	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 69	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 66	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 65	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 59	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 54	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 28	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	APP_Interface.c	/calculator	line 24	C/C++ Problem
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values	APP_Interface.c	/calculator	line 204	C/C++ Problem
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values	APP_Interface.c	/calculator	line 187	C/C++ Problem
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values	APP_Interface.c	/calculator	line 83	C/C++ Problem
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values	APP_Interface.c	/calculator	line 54	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 307	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 312	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 304	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 299	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 315	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 296	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 260	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 320	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 224	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 163	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 323	C/C++ Problem
+#1467-D (MISRA-C:2004 14.6/R) For any iteration statement there shall be at most one break statement used for loop termination	APP_Interface.c	/calculator	line 60	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	APP_Interface.c	/calculator	line 134	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 328	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	APP_Interface.c	/calculator	line 131	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	APP_Interface.c	/calculator	line 104	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 331	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	APP_Interface.c	/calculator	line 76	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	APP_Private.h	/calculator	line 11	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 337	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	APP_Interface.c	/calculator	line 229	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	APP_Interface.c	/calculator	line 210	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	GPIO.c	/calculator	line 340	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	APP_Interface.c	/calculator	line 170	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 298	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 306	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 314	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 322	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 330	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 339	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 293	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	APP_Interface.c	/calculator	line 129	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	APP_Interface.c	/calculator	line 50	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	APP_Interface.c	/calculator	line 18	C/C++ Problem
+#1411-D (MISRA-C:2004 13.3/R) Floating-point expressions shall not be tested for equality or inequality	APP_Interface.c	/calculator	line 29	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 277	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 274	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 271	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 268	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 265	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 366	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 262	C/C++ Problem
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions	APP_Interface.c	/calculator	line 134	C/C++ Problem
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions	APP_Interface.c	/calculator	line 131	C/C++ Problem
+#1404-D (MISRA-C:2004 12.4/R) The right-hand operand of a logical && or || operator shall not contain side effects	APP_Interface.c	/calculator	line 83	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 371	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 372	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 370	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 373	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 366	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 374	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 374	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 365	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 378	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 364	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 379	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 363	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 380	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 362	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 381	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 340	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 382	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 382	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 337	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 386	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 331	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 387	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 328	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 388	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 323	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 389	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 320	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 390	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 390	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 315	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 394	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 312	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 395	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 307	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 396	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 304	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 397	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 299	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 398	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 398	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 296	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 403	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 277	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 404	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 274	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 405	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 271	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 406	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 268	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 407	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 407	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 265	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 359	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	GPIO.c	/calculator	line 421	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 421	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 421	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 262	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	GPIO.c	/calculator	line 424	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 424	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 424	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 241	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	GPIO.c	/calculator	line 427	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 427	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 427	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 238	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	GPIO.c	/calculator	line 430	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 430	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 430	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 235	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	GPIO.c	/calculator	line 433	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 433	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 433	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 232	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	GPIO.c	/calculator	line 436	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 436	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 436	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 229	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 419	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 452	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 452	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 226	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 452	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 455	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 455	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	APP_Interface.c	/calculator	line 225	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 460	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 460	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	APP_Interface.c	/calculator	line 223	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 460	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 463	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 463	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	APP_Interface.c	/calculator	line 220	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 468	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 468	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	APP_Interface.c	/calculator	line 218	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 468	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 471	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 471	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	APP_Interface.c	/calculator	line 151	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 476	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 476	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 476	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 476	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 479	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 479	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 479	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 484	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 484	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 484	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 484	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 487	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 487	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 487	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 492	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 492	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 492	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 492	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 495	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 495	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 495	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 454	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 462	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 470	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 478	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 486	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 494	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 449	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 512	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 512	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 512	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 515	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 515	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 515	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 518	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 518	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 518	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 523	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 523	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 523	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 526	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 526	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 526	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 529	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 529	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 529	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 534	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 534	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 534	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 537	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 537	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 537	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 540	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 540	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 540	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 545	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 545	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 545	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 548	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 548	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 548	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 551	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 551	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 551	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 556	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 556	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 556	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 559	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 559	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 559	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 562	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 562	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 562	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 567	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 567	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 567	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 570	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 570	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 570	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 573	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 573	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 573	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 517	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 528	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 539	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 550	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 561	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 572	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 509	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 589	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 589	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 589	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 592	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 592	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 592	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 595	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 595	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 595	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 600	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 600	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 600	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 603	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 603	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 603	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 606	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 606	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 606	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 611	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 611	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 611	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 614	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 614	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 614	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 617	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 617	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 617	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 622	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 622	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 622	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 625	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 625	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 625	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 628	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 628	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 628	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 633	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 633	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 633	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 636	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 636	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 636	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 639	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 639	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 639	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 644	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 644	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 644	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 647	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 647	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 647	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 650	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 650	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 650	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 594	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 605	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 616	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 627	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 638	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 649	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 586	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 15	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 15	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 471	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 16	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 16	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 468	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 17	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 463	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 18	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 460	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 19	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 455	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 24	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 24	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 452	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 25	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 25	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 407	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 26	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 398	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 27	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 390	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 28	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 382	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 31	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 31	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 374	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 32	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 32	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 366	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 33	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 277	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 34	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 274	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 35	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 271	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 38	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 38	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 268	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 39	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 39	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 265	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 262	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 41	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	APP_Interface.c	/calculator	line 104	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 42	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 436	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 45	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 45	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 433	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 46	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 46	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 430	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 47	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 427	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 48	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 424	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 49	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 421	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 53	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 53	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 406	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 54	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 54	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 405	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 55	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 404	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 56	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 403	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 57	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 397	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 13	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 76	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 76	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 76	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 76	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 79	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 79	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 79	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 84	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 84	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 84	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 84	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 87	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 87	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 87	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 92	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 92	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 92	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 92	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 95	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 95	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 95	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 100	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 100	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 100	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 100	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 103	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 103	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 103	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 108	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 108	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 108	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 108	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 111	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 111	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 111	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 116	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 116	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 116	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 116	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 119	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 119	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 119	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 78	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 86	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 94	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 102	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 110	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	GPIO.c	/calculator	line 118	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 73	C/C++ Problem
+#1473-D (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical	GPIO.c	/calculator	line 131	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 134	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 137	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 140	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 143	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 146	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 149	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	GPIO.c	/calculator	line 132	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 166	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 166	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 166	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 169	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 169	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 169	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 169	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 174	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 174	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 174	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 177	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 177	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 177	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 177	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 182	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 182	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 182	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 185	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 185	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 185	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 185	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 190	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 190	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 190	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 193	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 193	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 193	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 193	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 198	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 198	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 198	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 201	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 201	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 201	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 201	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 206	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 206	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 206	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	GPIO.c	/calculator	line 209	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	GPIO.c	/calculator	line 209	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	GPIO.c	/calculator	line 209	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	GPIO.c	/calculator	line 209	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 20	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 21	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 21	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	delay.c	/calculator	line 21	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 21	C/C++ Problem
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement	delay.c	/calculator	line 19	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	delay.c	/calculator	line 4	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 6	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 6	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 6	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	delay.c	/calculator	line 6	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 7	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 7	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 7	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 8	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 8	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 8	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 9	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 9	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	delay.c	/calculator	line 9	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 9	C/C++ Problem
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean	delay.c	/calculator	line 9	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 10	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 10	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 10	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 11	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 11	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	delay.c	/calculator	line 11	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 11	C/C++ Problem
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement	delay.c	/calculator	line 9	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	delay.c	/calculator	line 15	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 16	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 16	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 16	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 17	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 17	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 17	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 18	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 18	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 18	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 19	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 19	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	delay.c	/calculator	line 19	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	delay.c	/calculator	line 19	C/C++ Problem
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean	delay.c	/calculator	line 19	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	delay.c	/calculator	line 20	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	delay.c	/calculator	line 20	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	delay.h	/calculator	line 10	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	delay.h	/calculator	line 11	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 15	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	keypad.c	/calculator	line 16	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	keypad.c	/calculator	line 16	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	keypad.c	/calculator	line 16	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	keypad.c	/calculator	line 16	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 18	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	keypad.c	/calculator	line 19	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	keypad.c	/calculator	line 19	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	keypad.c	/calculator	line 19	C/C++ Problem
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean	keypad.c	/calculator	line 19	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 23	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("val")	keypad.c	/calculator	line 54	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 57	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 57	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 59	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 59	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 61	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 61	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 63	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 63	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 65	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 65	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 67	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 69	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 69	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 71	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 71	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 73	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 73	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 75	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 75	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 77	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 77	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 79	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 79	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 81	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 81	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 83	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 85	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 85	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 87	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	keypad.c	/calculator	line 87	C/C++ Problem
+#1416-D (MISRA-C:2004 15.2/R) An unconditional break statement shall terminate every non-empty switch clause	keypad.c	/calculator	line 89	C/C++ Problem
+#1468-D (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function	keypad.c	/calculator	line 89	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	keypad.c	/calculator	line 95	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	keypad.c	/calculator	line 97	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 97	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	keypad.c	/calculator	line 98	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 98	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	keypad.c	/calculator	line 99	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	keypad.c	/calculator	line 99	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 17	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 17	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 17	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 28	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 28	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 30	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 32	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 33	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 45	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 45	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 45	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 46	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 46	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 46	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 47	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 48	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 48	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 48	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 49	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 70	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 71	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 72	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 72	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 72	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 73	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 85	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 85	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 85	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 86	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 86	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 86	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 87	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 88	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 88	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 88	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 89	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 109	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 110	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	lcd.c	/calculator	line 111	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 111	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 111	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 112	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 124	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	lcd.c	/calculator	line 125	C/C++ Problem
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values	lcd.c	/calculator	line 125	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	lcd.c	/calculator	line 126	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 138	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 152	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 155	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 156	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	lcd.c	/calculator	line 156	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 158	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 159	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 161	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 162	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/calculator	line 165	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 165	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/calculator	line 165	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	lcd.c	/calculator	line 151	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 200	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	lcd.c	/calculator	line 210	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")	lcd.c	/calculator	line 210	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 211	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	lcd.c	/calculator	line 211	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 212	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	lcd.c	/calculator	line 212	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	lcd.c	/calculator	line 212	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	lcd.c	/calculator	line 216	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 217	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 233	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 235	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 242	C/C++ Problem
+#1394-D (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if the expression is complex	lcd.c	/calculator	line 242	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("num")	lcd.c	/calculator	line 244	C/C++ Problem
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("digit")	lcd.c	/calculator	line 245	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 245	C/C++ Problem
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions	lcd.c	/calculator	line 248	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	lcd.c	/calculator	line 248	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/calculator	line 252	C/C++ Problem
+#1420-D (MISRA-C:2004 16.5/R) Functions with no parameters shall be declared and defined with the parameter list void	main.c	/calculator	line 3	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	GPIO.c	/calculator	line 396	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	main.c	/calculator	line 3	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	tm4c123gh6pm_startup_ccs.c	/calculator	line 69	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "ResetISR")	tm4c123gh6pm_startup_ccs.c	/calculator	line 71	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "NmiSR")	tm4c123gh6pm_startup_ccs.c	/calculator	line 72	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "FaultISR")	tm4c123gh6pm_startup_ccs.c	/calculator	line 73	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 74	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 75	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 76	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 77	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 78	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 79	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 80	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 81	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 82	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 83	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 84	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 85	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 86	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 87	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 88	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 89	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 90	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 91	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 92	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 93	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 94	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 95	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 96	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 97	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 98	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 99	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 100	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 101	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 102	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 103	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 104	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 105	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 106	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 107	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 108	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 109	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 110	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 111	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 112	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 113	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 114	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 115	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 116	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 117	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 118	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 119	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 120	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 121	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 122	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 123	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 124	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 125	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 126	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 127	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 128	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 129	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 130	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 131	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 132	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 133	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 134	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 135	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 136	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 137	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 138	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 139	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 140	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 141	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 142	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 143	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 144	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 145	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 146	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 147	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 148	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 149	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 150	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 151	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 152	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 153	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 154	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 155	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 156	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 157	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 158	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 159	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 160	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 161	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 162	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 163	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 164	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 165	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 166	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 167	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 168	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 169	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 170	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 171	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 172	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 173	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 174	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 175	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 176	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 177	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 178	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 179	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 180	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 181	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 182	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 183	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 184	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 185	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 186	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 187	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 188	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 189	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 190	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 191	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 192	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 193	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 194	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 195	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 196	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 197	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 198	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 199	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 200	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	tm4c123gh6pm_startup_ccs.c	/calculator	line 201	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 202	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 203	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 204	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 205	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 206	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 207	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 208	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 209	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 210	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 211	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 212	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 213	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 214	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 215	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 216	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 217	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 218	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 219	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 220	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 221	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 222	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 223	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/calculator	line 224	C/C++ Problem
